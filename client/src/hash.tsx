@@ -1,3 +1,5 @@
+export {}
+
 // Compare password for logging in
 
 // bcrypt.compare(
