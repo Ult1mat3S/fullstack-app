@@ -18,7 +18,7 @@ export default function Signup() {
     <div className="login-wrapper">
       <h1>Sign up</h1>
       <form
-        action="http://localhost:3001/api"
+        action="https://fullstack-backend-nuwh.onrender.com/api"
         method="POST"
         onSubmit={handleSubmit}
       >
